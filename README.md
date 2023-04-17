@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Terraform
+🌱 I’m currently learning Python
 😄 Pronouns: he/him
 
 <!--
